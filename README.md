@@ -1,6 +1,4 @@
 # AI-For-Medicine
-This repository contains my full documentations of the Information System Final Project
-
 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. In this Specialization, we’ll gain practical experience applying machine learning to concrete problems in medicine. We’ll learn how to:
 
