@@ -1,4 +1,5 @@
 Key Concepts
-*Extracting disease labels from clinical reports
-*Question Answering with BERT
+
+* Extracting disease labels from clinical reports
+* Question Answering with BERT
 
